@@ -1,0 +1,820 @@
+/*
+320px
+400px-600px apple er iphn
+768px-992px tab
+1024px -1200px laptop medium device
+1280px-1440px boro device laptop
+1500px-2000px+ game development */
+
+
+/* For mobile*/
+@media(min-width:300px){
+    nav ul {
+        gap: 29px;
+    }
+    .name {
+        display: flex;
+    }
+
+     .button {
+       
+        margin-top: 30px;
+        
+    }
+    .add-parent {
+        display: block;
+        
+    }
+    .foot-parent {
+         display: block;
+        
+    }
+    .add-parent {
+        text-align: center;
+    }
+    .demo h2 {
+        font-size: 1.6rem;
+        
+    }
+
+    .com_h p {
+        
+        width: 14.25rem;
+    }
+
+    .com_del {
+      padding: 0rem 1rem;
+       
+    }
+
+    .custom {
+        background: #fff;
+    }
+
+    .cus_main {
+        display: block; 
+        padding: 0 1rem;
+       
+    }
+
+    .all {
+        display: block;
+       
+    }
+
+    .des_main {
+      
+        display: block; 
+        padding: 0 1rem;
+    }
+
+    .des_detail {
+        width: 287px;
+    }
+
+    .des_main {
+       
+        display:block;
+        
+      
+    }
+
+    .help {
+        background: #fff;
+        
+    }
+    .help_main {
+        display: block;
+       
+    }
+
+
+    .hh h2 {
+        font-size: 2em;
+    }
+
+    .club {
+       
+        display: block;
+        
+    }
+    .subRow1 img {
+        width: 76px;
+    }
+
+    .subRow2 img {
+        width: 76px;
+    }
+
+    .detls p {
+       
+        font-size: 1.3rem;
+    }
+
+    .hh p {
+        
+        font-size: 24px;
+    }
+
+    .frame {
+        display: block;
+        padding: 0rem 4.5rem;
+       
+    }
+
+    .s_haeding h2 {
+        font-size: 2rem;
+       
+    }
+
+    .c_img {
+        width: 79%;
+        gap: 16px;
+        margin-left:40px;
+    }
+    .banner {
+      
+        display: block;
+       
+    }
+    .detail {
+        
+        padding: 0 1rem;
+    }
+    .bg{
+        background-color: #fff;
+    }
+    .detail-img {
+        width: 311px;
+        
+    }
+    .c_main {
+        margin-top: 552px;
+     }
+     .help_main {
+       
+        padding: 0 1rem;
+    }
+
+    .hh {
+        width: 274px;
+    }
+    .row1 {
+        width: 264px;
+    }
+    .row2 {
+        width: 264px;
+   }
+   .club {
+    
+    width: 1px;
+}
+
+.det_img img {
+   margin-top: 19rem;
+}
+}
+
+@media(min-width:400px){
+    .add-parent {
+        display: flex;
+        flex-direction: column;
+    }
+    .foot-parent {
+        display: block; 
+        
+    }
+
+    .add-parent {
+        text-align: center;
+    }
+    .date table {
+        margin-bottom: 17px;
+       
+    }
+
+    .com_del {
+        padding: 0rem 3rem;
+         
+      }
+
+      .des_main {
+       
+        display: block;
+        padding: 0 2rem;
+        
+    }
+
+    .des_detail {
+        width: 372px;
+        
+    }
+
+    .des_main {
+       
+        display:block;
+       
+      
+    }
+
+    .help {
+        background: #fff;
+        
+    }
+    .help_main {
+        display: block;
+        padding: 0 1rem;
+       
+    }
+
+    .hh h2 {
+        font-size: 2.5em;
+    }
+    .club {
+       
+        display: block;
+        
+    }
+    .subRow1 img {
+        width: 72px;
+    }
+
+    .subRow2 img {
+        width: 72px;
+    }
+
+    .detls p {
+       
+        font-size: 1.4rem;
+    }
+    .hh {
+        width: 333px;
+    }
+
+    .hh p {
+        
+        font-size: 24px;
+    }
+
+    .frame {
+        display: block;
+        padding: 0rem 6rem;
+       
+    }
+    .s_haeding h2 {
+        font-size: 2.2rem;
+    }
+
+    .c_img {
+        width: 63%;
+        margin-left: 83px;
+    }
+    .banner {
+        
+        display: block;
+        
+    }
+
+    .bg {
+        background-color: #fff;
+       
+    }
+    .detail {
+        
+        padding: 0 1rem;
+    }
+    .c_main {
+        margin-top: 485px;
+    }
+    
+
+}
+
+@media(min-width:500px){
+    .com_del {
+        padding: 0rem 9rem;
+         
+      }
+
+      .all {
+        display: flex;
+        gap: 10px;
+    }
+
+    .des_main {
+       
+        display: block;
+        padding: 0 1rem;
+    }
+    .des_detail {
+        width: 496px;
+       
+    }
+
+    .des_main {
+       
+        display:block;
+        
+      
+    }
+
+    .help {
+        background: #fff;
+        
+    }
+    .help_main {
+        display: block;
+       
+    }
+
+    .hh h2 {
+        font-size: 2.5em;
+        
+    }
+    .club {
+       
+        display: block;
+       
+    }
+    .detls p {
+        font-size: 1.3rem;
+    }
+    .help_main {
+        padding: 0 .5rem;
+    }
+
+    .frame {
+        display: block;
+       
+    }
+
+    .frame {
+        padding: 0rem 11rem;
+    }
+    .s_haeding h2 {
+        font-size: 2.32rem;
+       
+    }
+    .c_img {
+        margin-left: 120px;
+        width: 56%;
+    }
+    .detail {
+       
+        padding: 0 3rem;
+    }
+    .c_main {
+        margin-top: 442px;
+    }
+    .dem {
+        background: #fff;
+       
+    }
+}
+
+@media(min-width:600px){
+    .com_del {
+        padding: 0rem 13rem;
+         
+      }
+
+      .all {
+       
+        gap: 40px;
+    }
+
+    .subRow1 img {
+        width: 202px;
+    }
+
+    .subRow2 img {
+        width: 202px;
+    }
+
+    .detls p {
+       
+        font-size: 1.2rem;
+       
+    }
+
+    .hh p {
+        
+        font-size: 18px;
+    }
+
+    .frame {
+        display: flex;
+       
+    }
+    .frame {
+        padding: 0rem 1rem;
+    }
+    .c_img {
+        margin-left: 93px;
+    }
+    .c_img {
+        margin-left: 93px;
+        width: 76%;
+    }
+    .detail {
+      
+        padding: 0 1rem;
+    }
+    .detail-img {
+       
+        margin-top: 173px;
+    }
+
+    .detail-img {
+        margin-top: 65px;
+    }
+
+    .club{
+        display: flex;
+    }
+
+    .help_main {
+        padding: 0 2.5rem;
+    }
+
+    .f_detail h4 {
+        font-size: 24px;
+       
+    }
+
+    .club {
+    
+        width: 488px;
+    }
+    .det_img img {
+       
+        margin-top: 10rem;
+    }
+}
+
+
+
+
+
+
+@media(min-width:768px){
+    .icon h3 {
+        font-size: 38px;
+        
+    }
+    .add-parent {
+        display: flex;
+        flex-direction: row;
+        gap: 40px;
+        margin-top: 5rem;
+        
+    }
+    
+    .icon p {
+        
+        margin-top: 14px;
+        
+    }
+
+    .foot-parent {
+         display: block;
+        
+    }
+    .company h3 {
+       
+        margin-bottom: 20px;
+       
+    }
+
+    .support h3{
+        margin-bottom: 20px;
+    }
+    .icon {
+        
+        text-align: center;
+    }
+    .demo h2 {
+        font-size: 3rem;
+        
+    }
+
+    .com_del {
+        padding: 0rem 13rem;
+         
+      }
+      .com_h p {
+        width: 39.25rem;
+    }
+
+    .des_detail {
+        width: 751px;
+        
+    }
+         
+    .des_img img {
+        width: 413px;
+    }
+    .des_main {
+       
+        display:block;
+        
+      
+    }
+
+    .help {
+        background: #fff;
+        
+    }
+    .help_main {
+        display: block;
+       
+    }
+
+    .help_main {
+        padding: 0 8rem;
+    }
+
+    .frame {
+        padding: 0rem 1rem;
+    }
+
+    .c_img {
+        margin-left: 110px;
+    }
+    .detail {
+        padding: 0 1rem;
+    }
+  
+    .banner {
+        
+        display: flex;
+        
+    }
+    .bg{
+        background-color: #F5F7FA;
+    }
+    .c_main {
+        margin-top: 141px;
+    }
+    .club{
+        display: flex;
+    }
+    .f_detail h4 {
+        font-size: 27px;
+    }
+    .dem {
+        background: #F5F7FA;
+      
+    }
+
+}
+
+
+
+
+@media(min-width:992px){
+    
+    .detail {
+        padding: 0 1rem;
+    }
+
+    .bg {
+        background-color: #fff;
+    }
+
+}
+
+@media(min-width:1024px){
+    .name{
+        display: flex;
+    }
+
+    .button {
+       
+        margin-top: 6px;
+        
+    }
+
+    .icon h3 {
+        font-size: 47px;
+        
+    }
+
+    .head-main {
+        display: flex; 
+        justify-content: space-between;   
+    }
+    
+    .add-parent {
+        display: flex;
+        justify-content: space-between;
+        gap: 92px;
+        margin-top: 7rem;
+    }
+ 
+    .icon p {
+        
+        margin-top: 60px;
+        
+    }
+    .foot-parent {
+        display: flex;
+        justify-content: space-between;
+       
+   }
+   .company h3 {
+    
+    margin-bottom: 50px;
+   
+}
+
+.support h3{
+    margin-bottom: 50px;
+}
+.demo h2 {
+    font-size: 3.2rem;
+    
+}
+.com_del {
+    display: block;
+   padding: 0rem 9rem;
+}
+
+.cus_main {
+    
+        padding: 0 1rem; 
+        gap: 4rem;
+        
+    
+}
+
+.cus_main {
+    gap: 3rem;
+    display: flex;
+}
+
+.des_main {
+    padding: 0 4rem;
+}
+
+.des_detail {
+   
+    margin-top: 1px;
+}
+
+.des_main {
+       
+    display:flex;
+    
+    padding: 0 1rem;
+}
+
+.help_main {
+    padding: 0 1rem;
+}
+
+.help_main {
+    display: flex;
+   
+}
+
+
+.c_img {
+    margin-left: 135px;
+}
+
+.detail-img{
+    width: 360px;
+}
+
+.hh {
+    width: 500px;
+}
+
+.det_img img {
+    margin-top: 0;
+}
+
+}
+
+
+@media(min-width:1200px){
+    .custom {
+        background: #F5F7FA;
+   }
+
+
+.des_main {
+    padding: 0 8rem;
+}
+   
+.des_img img {
+    width: 503px;
+}
+
+.help_main {
+    padding: 0 6rem;
+}
+
+.frame {
+    padding: 0rem 6rem;
+}
+.bg {
+    background-color: #F5F7FA;
+}
+
+.help {
+    background: #F5F7FA;
+   
+}
+
+}
+
+@media(min-width:1280px){
+    .com_del {
+        display: flex;
+        flex-direction: row;
+        padding:0rem 3rem
+    }
+
+    .des_detail {
+   
+        margin-top: 50px;
+    }
+
+    .help_main {
+        padding: 0 8rem;
+    }
+}
+
+@media(min-width:1400px){
+    nav ul{
+        gap:60px
+    }
+
+    .foot-parent {
+       
+        padding: 0 12rem;
+       
+    }
+
+    .demo h2 {
+        font-size: 3.2rem;
+        
+    }
+
+    .com_del {
+        display: flex;
+       
+    }
+
+    .cus_main {
+       
+        padding: 0 10rem;
+        gap: 7rem;
+       
+    }
+
+    .des_img img {
+        width: 450px;
+    }
+
+    .frame {
+        padding: 0rem 12rem;
+    }
+
+    .c_img {
+        margin-left: 226px;
+    }
+}
+
+@media(min-width:1440px){
+    .com_del {
+        padding: 0rem 8rem;
+       
+    }
+}
+
+
+@media(min-width:1600px){
+    .add-parent {
+        
+        gap: 177px;
+        
+    }
+
+    .demo h2 {
+        font-size: 3.2rem;
+        
+    }
+
+    .com_del {
+        
+        gap: 5.5rem;
+    }
+
+    .frame {
+        padding: 0rem 22rem;
+    }
+
+}
